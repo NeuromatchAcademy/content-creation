@@ -13,5 +13,6 @@
 - [Here](https://docs.google.com/presentation/d/11pmbsYszVDntBKL9xqdiXLBWje9OIA_Do6VgT_qPmak/edit#slide=id.p1) are some tips for how to make an accessible tutorial.
 - [These]() are our current notation standards, but these may be updated soon.
 - If you want a particular interactive demo but don't know how to make it, reach out! We can help.
+- Once you finish the tutorials, we will review them and give you feedback for updates.
 
 
