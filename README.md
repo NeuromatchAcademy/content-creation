@@ -1,9 +1,9 @@
 ## Content Creation
 
 # Making videos
-- Make your slides using [this template](https://docs.google.com/presentation/d/1mU5otRXJarz4HD-2kOFVSSedkXDUz4BHO6ISJIPOZz8/edit#slide=id.p). Please don't change the template! We have included boxes for your video and captions.
-- Turn over to the slide review team at NMA to check them over
-- Once you get the okay, record your lecture. [Here](https://docs.google.com/document/d/1_RHVZ-R0XPP634pIflgspR1dPSzHkkfc7uQ1vQ97p7g/edit#heading=h.2utdyzjhohx8) are instructions on how to record
+- Make your slides using [this template](https://docs.google.com/presentation/d/1mU5otRXJarz4HD-2kOFVSSedkXDUz4BHO6ISJIPOZz8/edit#slide=id.p). Please don't change the template! We have included boxes for your video and captions. The materials will eventually be published as CC-BY. 
+- Turn over to the slide review team at NMA to check them over.
+- Once you get the okay, record your lecture. [Here](https://docs.google.com/document/d/1_RHVZ-R0XPP634pIflgspR1dPSzHkkfc7uQ1vQ97p7g/edit#heading=h.2utdyzjhohx8) are instructions on how to record.
 - Notation standards coming soon.
 
 
