@@ -12,6 +12,7 @@
 - We have a specific format for NMA tutorials, located [here](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/organization/Neuromatch_Tutorial_Format.ipynb). Please adhere carefully to this format - the consistency reduces the cognitive load of students and allows them to focus on the material.
 - [Here](https://docs.google.com/presentation/d/11pmbsYszVDntBKL9xqdiXLBWje9OIA_Do6VgT_qPmak/edit#slide=id.p1) are some tips for how to make an accessible tutorial.
 - Notation standards coming soon.
+- Code standards/notebook examples for DL can be found in DL_tutorial_Carpentry notebook.
 - If you want a particular interactive demo but don't know how to make it, reach out! We can help.
 - Once you finish the tutorials, we will review them and give you feedback for updates.
 
